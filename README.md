@@ -1,4 +1,4 @@
-# practice
+# Flutter Expense Tracker App
 
 A new Flutter project.
 

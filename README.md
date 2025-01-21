@@ -32,7 +32,9 @@ This project helped me solidify my understanding of several Flutter concepts, in
 - **Dropdown Buttons**: Simplifying user input for category selection.
 - **Snack Bars and Feedback**: Enhancing user interaction.
 - **Chart Widgets**: Visualizing data with third-party libraries.
+- 
 
 
+![‏‏ExpenseTrackerUI-01](https://github.com/user-attachments/assets/705d05d4-a8dd-4ec1-8c14-66b619671ab7)
 
 
